@@ -1,11 +1,9 @@
-/* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
   --primary-font: Inter;
   --accent-font: PressStart2P;
   --card-header-weight: 700;
   --card-text-weight: 400;
   --main-font-size: 18px;
-  --main-line-height: 1.17;
   --main-color: #000;
   --bg-color: #fff;
   --bg-image: repeating-linear-gradient(
